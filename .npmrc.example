@@ -1,0 +1,2 @@
+registry=https://YOUR_INSTANCE.jfrog.io/artifactory/api/npm/victor-npm/
+//YOUR_INSTANCE.jfrog.io/artifactory/api/npm/victor-npm/:_authToken=YOUR_TOKEN_HERE
